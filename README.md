@@ -12,3 +12,5 @@ for software engineering you need to:-
 7)golang
 8)c#
 for web development use python node js html css javascript react js nvue js 
+to do:-
+make restaurant webiste!
